@@ -18,7 +18,6 @@ import datasets.ucf101
 import datasets.imagenet_r
 
 import trainers.text_cls
-import trainers.text_cls_ori
 from utils.utils import *
 import os
 import h5py

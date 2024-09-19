@@ -27,8 +27,8 @@ The generic and dataset specific descriptions for all the 8 datasets are present
 
 ## Experiments
 
-### TAP
-To reproduce the results for `TAP` all the 8 datasets in Table 1, please run the following command:
+### MBP
+To reproduce the results for `MBP` all the 8 datasets in Table 1, please run the following command:
 
 ```bash scripts/train.sh runID```
 

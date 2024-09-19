@@ -4,7 +4,7 @@
 
 This repo officially implements **Category-Specific Channel Pruning for Effective Modality Bridging in Text-only Tuning**.
 
-Modality Bridging Pruning (MBP) selectively activates task-relevant channels, leading to performance improvements across single- and multi-label tasks.
+Modality Bridging Pruning (MBP) selectively activates task-relevant channels, leading to performance improvements across single-label and multi-label tasks.
 
 Contact us with pubowei@mail.ustc.edu.cn
 
@@ -26,4 +26,4 @@ Fig.1  Our two-step strategy: Mean-base initialization avoids overfitting, and p
 | LaFTer | 44.3                        | 64.2                 | 63.6                        | 18.3                   | 63.7           | 78.1              | 44.2             | 60.7             | 54.6             |
 | TAP       | 51.1                        | 66.9               | 68.9                      | 21.6                 | 66.3    | 78.5            | 54.2 | 63.4    | 58.9           |
 | Our-TF               | 51.7              | 69.7     | 69.8            | 22.3       | 64.6           | 80.5  | 53.3           | 62.2           | 59.3 |
-| Our                  | 52.3                 | 72.6        | 70.0               | 22.7          | 65.5 | 80.6     | {55.0    | 63.0} | 60.2    |
+| Our                  | 52.3                 | 72.6        | 70.0               | 22.7          | 65.5 | 80.6     | 55.0    | 63.0 | 60.2    |
