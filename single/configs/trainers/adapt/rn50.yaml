@@ -1,0 +1,4 @@
+MODEL:
+  BACKBONE:
+    NAME: "RN50"
+    PRETRAINED: "openai"
